@@ -4,8 +4,8 @@
  - This repository contains my solution for the Kaggle House Price Prediction competition. The objective of this competition was to predict house prices based on a set of      features using regression techniques. I participated in this competition, implemented various regression models, and achieved a rank of 3200 with a score of 0.196. This     README provides an overview of the project, the data, the models used, and how to reproduce the results.
 
 ### Dataset
-https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
-It includes a training set and a test set, each with various features related to houses.
+- https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
+- It includes a training set and a test set, each with various features related to houses.
 
 ### Data Preprocessing
 Before modeling, I conducted thorough data preprocessing, which included handling missing values, feature engineering, and encoding categorical variables. The preprocessed data was then split into training and validation sets.
