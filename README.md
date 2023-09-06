@@ -17,6 +17,7 @@ I experimented with several regression models to predict house prices. Here are 
 - Random Forest Regression: Provided the best R-squared value during experimentation.
 - XGBoost Regression: An ensemble model.
 - Support Vector Regression (SVR): Explored SVR as it can handle non-linear relationships.
+
 After evaluating these models, I selected Random Forest Regression as the final model due to its superior performance.
 
 ### Results
