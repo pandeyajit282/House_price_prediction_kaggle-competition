@@ -21,4 +21,4 @@ I experimented with several regression models to predict house prices. Here are 
 After evaluating these models, I selected Random Forest Regression as the final model due to its superior performance.
 
 ### Results
-My final model achieved an R-squared value of 0.196 on the Kaggle competition leaderboard, resulting in a rank of 3200 out of 4300. While the model performed well, there is always room for improvement, and further feature engineering could potentially enhance the results.
+My final model achieved an RMSE value of 0.196 on the Kaggle competition leaderboard, resulting in a rank of 2200 out of 4300. While the model performed well, there is always room for improvement, and further feature engineering could potentially enhance the results.
